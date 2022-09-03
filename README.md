@@ -1,1 +1,3 @@
-# simple-form-design
+# Simple Form Design
+
+![Design](screenshots/screenshot.JPG)
